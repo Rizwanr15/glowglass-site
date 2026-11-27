@@ -1,0 +1,47 @@
+{
+  "hero": {
+    "photographer": "Alex Tyson",
+    "url": "https://www.pexels.com/photo/a-sink-in-a-bathroom-19980207/",
+    "alt": "Elegant modern bathroom with stylish wooden vanity and backlit mirror, perfect for contemporary homes."
+  },
+  "bathroom": {
+    "photographer": "Idee Gabu",
+    "url": "https://www.pexels.com/photo/contemporary-bathroom-with-oval-mirrors-40300972/",
+    "alt": "Modern bathroom design featuring oval mirrors and stylish lighting fixtures."
+  },
+  "vanity": {
+    "photographer": "Rube G.",
+    "url": "https://www.pexels.com/photo/professional-makeup-studio-with-vanity-mirrors-32159331/",
+    "alt": "Bright, stylish makeup studio interior featuring illuminated vanity mirrors and director chairs."
+  },
+  "full-length": {
+    "photographer": "Valeria Nikitina",
+    "url": "https://www.pexels.com/photo/home-interior-with-beige-leather-sofa-and-full-length-mirror-10251886/",
+    "alt": "A minimalist room featuring a leather chair and full-length mirror against a textured wall."
+  },
+  "round": {
+    "photographer": "AJ  Ahamad",
+    "url": "https://www.pexels.com/photo/elegant-wall-decor-with-sunburst-mirrors-29149067/",
+    "alt": "Stylish sunburst mirrors on a white wall add a modern touch to interior decor."
+  },
+  "arch": {
+    "photographer": "Ana Laura  Mansilla González",
+    "url": "https://www.pexels.com/photo/elegant-architectural-interior-with-arched-mirrors-34159980/",
+    "alt": "A sophisticated architectural interior showcasing ornate arches and mirrored reflections."
+  },
+  "halo": {
+    "photographer": "Bilal Mansuri",
+    "url": "https://www.pexels.com/photo/a-mirror-near-the-bathroom-sink-10919436/",
+    "alt": "Sleek bathroom interior featuring a round backlit mirror against a textured concrete wall with a stylish sink and faucet."
+  },
+  "studio": {
+    "photographer": "Aruuke Osmonova-Lobian",
+    "url": "https://www.pexels.com/photo/modern-black-and-white-bathroom-interior-29139295/",
+    "alt": "Black and white modern bathroom with stylish mirrors and lighting."
+  },
+  "custom": {
+    "photographer": "Mirza Farhan",
+    "url": "https://www.pexels.com/photo/mirror-over-sink-in-bathroom-15456260/",
+    "alt": "A vintage bathroom scene illuminated by warm sunlight, featuring a mirror and a sink."
+  }
+}
